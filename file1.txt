@@ -1,1 +1,2 @@
 hello world
+yan zheng git config is effective
